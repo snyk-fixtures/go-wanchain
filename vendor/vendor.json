@@ -609,6 +609,12 @@
 			"revision": "85c29909967d7f171f821e7a42e7b7af76fb9598",
 			"revisionTime": "2017-02-11T12:01:23Z"
 		},
+                {
+                        "checksumSHA1": "hyNCcTwMQnV6/MK8uUW9E5H0J0M=",
+                        "path": "github.com/golang/go",
+                        "revision": "40cbf58f960a8f5287d2c3a93b3ca6119df67e85",
+                        "revisionTime": "2017-02-11T12:01:23Z"
+                },
 		{
 			"checksumSHA1": "Qk7dljcrEK1BJkAEZguxAbG9dSo=",
 			"path": "golang.org/x/text/internal/utf8internal",
